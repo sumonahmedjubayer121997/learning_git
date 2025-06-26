@@ -10,7 +10,7 @@ Project Nimbus is a lightweight, cloud-native task management app designed to ke
 - 🌓 Dark mode support
 - 🌐 Sync across multiple devices
 
-## 🛠️ Getting Startedgi
+## 🛠️ Getting Startedgi oh really 
 
 These instructions will get your copy of the project up and running on your local machine for development and testing purposes.
 
