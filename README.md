@@ -11,6 +11,7 @@ Project Nimbus is a lightweight, cloud-native task management app designed to ke
 - 🌐 Sync across multiple devices
 
 ## 🛠️ Getting Startedgi oh really 
+## how dare of them
 
 These instructions will get your copy of the project up and running on your local machine for development and testing purposes.
 
